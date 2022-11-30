@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @arganaphang
 - 👀 I’m interested in Go, Rust, Typescript
 - 🌱 I’m currently learning Rust, Microservices
-- 💞️ I’m looking to collaborate on Cloud Native, Frontend Tooling, Dev Tool
-- 📫 How to reach me at Twitter
+- 💞️ I’m looking to collaborate on Cloud Native, Frontend Tooling, Dev Tools
