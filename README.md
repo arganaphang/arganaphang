@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @arganaphang
+- 👋 Hi, I’m Argana Phangquestian (just call me Arga for short~)
 - 👀 I’m interested in Go, Rust, Typescript
 - 🌱 I’m currently learning Rust, Microservices
-- 💞️ I’m looking to collaborate on Cloud Native, Frontend Tooling, Dev Tools
+- 💞️ Love micro interaction, implement ui design into code.
+- 🔥 Have deep curiosity about scaling application
